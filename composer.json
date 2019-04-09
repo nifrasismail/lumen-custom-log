@@ -1,0 +1,15 @@
+{
+    "name": "nifrasismail/logger",
+    "version": "1.0.0",
+    "description": "Base Logger for Every Events",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nifrasismail",
+            "email": "nifrasismail@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
