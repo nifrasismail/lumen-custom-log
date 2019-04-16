@@ -1,6 +1,6 @@
 {
     "name": "nifrasismail/logger",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Base Logger for Every Events",
     "type": "library",
     "license": "MIT",
@@ -10,6 +10,11 @@
             "email": "nifrasismail@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Nifrasismail\\Logger\\": "src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
